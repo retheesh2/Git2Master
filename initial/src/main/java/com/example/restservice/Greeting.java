@@ -3,7 +3,7 @@ public class Greeting {
 
     private final long id;
     private final String content;
-    private final String test-1;
+    private final String test-2;
 
     public Greeting(long id, String content) {
         this.id = id;
